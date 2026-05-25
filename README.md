@@ -60,13 +60,13 @@ UI/UX design work from my time as a **UI/UX Designer at Hevin Technoweb LLP** (J
 > **Free Fire skin and bundle companion app.** Distinct visual identity built around a bold diagonal card system — colour-coded categories, cinematic splash, and complete app flow.
 
 <div align="center">
-<img src="skintools/banner.jpg" width="100%" />
+<img src="skintools/screens/banner.jpg" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-<img src="skintools/all-screens.jpg" width="100%" />
+<img src="skintools/screens/Snap.jpg" width="100%" />
 </div>
 
 <br>
