@@ -98,9 +98,9 @@ UI/UX design work from my time as a **UI/UX Designer at Hevin Technoweb LLP** (J
 
 <div align="center">
 
-<img src="wikipedia-redesign/screens/01-home.png" width="49%" />
-&nbsp;
 <img src="wikipedia-redesign/screens/03-article.png" width="49%" />
+&nbsp;
+<img src="wikipedia-redesign/screens/04-article-light.png" width="49%" />
 
 </div>
 
