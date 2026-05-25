@@ -25,7 +25,7 @@ UI/UX design work from my time as a **UI/UX Designer at Hevin Technoweb LLP** (J
 > **Mobile companion app** for the Free Fire game. Complete UI system — brand identity, navigation, content screens, detail views, and Play Store assets.
 
 <div align="center">
-<img src="free-fire-diamonds/12-banner.jpg" width="100%" />
+<img src="free-fire-diamonds/screens/12-banner.jpg" width="100%" />
 </div>
 
 <br>
