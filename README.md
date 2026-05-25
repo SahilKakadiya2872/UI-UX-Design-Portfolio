@@ -32,11 +32,11 @@ UI/UX design work from my time as a **UI/UX Designer at Hevin Technoweb LLP** (J
 
 <div align="center">
 
-<img src="free-fire-diamonds/screens/home.jpg" width="32%" />
+<img src="free-fire-diamonds/screens/2.jpg" width="32%" />
 &nbsp;
-<img src="free-fire-diamonds/screens/weapons-detail.jpg" width="32%" />
+<img src="free-fire-diamonds/screens/4.jpg" width="32%" />
 &nbsp;
-<img src="free-fire-diamonds/screens/characters-carousel.jpg" width="32%" />
+<img src="free-fire-diamonds/screens/6.jpg" width="32%" />
 
 </div>
 
