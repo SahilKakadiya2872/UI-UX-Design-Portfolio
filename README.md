@@ -1,13 +1,10 @@
 <div align="center">
 
-# UI/UX Design Portfolio
-### Sahil Kakadiya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=UI%2FUX%20Design%20Portfolio&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Sahil%20Kakadiya%20%E2%80%94%20Mobile%20App%20Design%20%C2%B7%20Interaction%20Design%20%C2%B7%20Prototyping&descAlignY=60&descSize=16" />
 
-**UI/UX Designer · Mobile App Design · Interaction Design · Prototyping**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sahil--vr--portfolio.vercel.app-blue?style=flat-square)](https://sahil-vr-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahil--kakadiya02-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sahil-kakadiya02)
-[![Email](https://img.shields.io/badge/Email-sahilkakadiya010%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:sahilkakadiya010@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-4F46E5?style=for-the-badge)](https://sahil-vr-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sahil-kakadiya02)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:sahilkakadiya010@gmail.com)
 
 </div>
 
@@ -15,120 +12,120 @@
 
 ## About
 
-This repository showcases UI/UX design work completed during my time as a **UI/UX Designer at Hevin Technoweb LLP** (Jan 2023 – Sep 2023). Projects include complete mobile app UI systems and a web redesign concept, covering the full design process from wireframing and prototyping to final screen design and Play Store assets.
+UI/UX design work from my time as a **UI/UX Designer at Hevin Technoweb LLP** (Jan – Sep 2023). Two complete mobile app UI systems and a web redesign concept — covering brand identity, screen design, interaction flows, and Play Store marketing assets.
 
 ---
 
 ## Projects
 
-| # | Project | Type | Tools |
-|---|---------|------|-------|
-| 1 | [Free Fire Diamonds](#1-free-fire-diamonds) | Mobile App UI | Adobe XD · Photoshop |
-| 2 | [SkinTools](#2-skintools) | Mobile App UI | Adobe XD · Photoshop |
-| 3 | [Wikipedia Redesign](#3-wikipedia-redesign) | Web UX Redesign | Figma |
+<br>
+
+### 01 — Free Fire Diamonds
+
+> **Mobile companion app** for the Free Fire game. Complete UI system — brand identity, navigation, content screens, detail views, and Play Store assets.
+
+<div align="center">
+<img src="free-fire-diamonds/banner.jpg" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="free-fire-diamonds/screens/home.jpg" width="32%" />
+&nbsp;
+<img src="free-fire-diamonds/screens/weapons-detail.jpg" width="32%" />
+&nbsp;
+<img src="free-fire-diamonds/screens/characters-carousel.jpg" width="32%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+
+**[→ View All Screens](free-fire-diamonds/screens/)**
+
+</div>
 
 ---
 
-## 1. Free Fire Diamonds
+<br>
 
-**Mobile companion app for the Free Fire game** — a complete UI system covering the full app experience including onboarding, content navigation, detail screens, and Play Store marketing assets.
+### 02 — SkinTools
 
-### Design Highlights
-- Gradient-heavy visual language matching the gaming aesthetic of Free Fire
-- Consistent card-based navigation system across all content categories
-- Full screen flow: Splash → Menu → Content → Detail → Exit
-- Play Store icon and promotional banner included
+> **Free Fire skin and bundle companion app.** Distinct visual identity built around a bold diagonal card system — colour-coded categories, cinematic splash, and complete app flow.
 
-### Screens
+<div align="center">
+<img src="skintools/banner.jpg" width="100%" />
+</div>
 
-| Splash Screen | Start Screen | Main Menu |
-|:---:|:---:|:---:|
-| ![Splash](free-fire-diamonds/screens/01-splash.jpg) | ![Start](free-fire-diamonds/screens/02-start.jpg) | ![Menu](free-fire-diamonds/screens/03-home.jpg) |
+<br>
 
-| Weapons List | Weapons Detail | Characters List |
-|:---:|:---:|:---:|
-| ![Weapons](free-fire-diamonds/screens/04-weapons-list.jpg) | ![Weapon Detail](free-fire-diamonds/screens/05-weapons-detail.jpg) | ![Characters](free-fire-diamonds/screens/06-characters-list.jpg) |
+<div align="center">
+<img src="skintools/all-screens.jpg" width="100%" />
+</div>
 
-| Characters Detail | Vehicles List | Vehicles Detail |
-|:---:|:---:|:---:|
-| ![Char Detail](free-fire-diamonds/screens/07-characters-detail.jpg) | ![Vehicles](free-fire-diamonds/screens/08-vehicles-list.jpg) | ![Vehicle Detail](free-fire-diamonds/screens/09-vehicles-detail.jpg) |
+<br>
 
-| Tips & Tricks | Exit Screen | Play Store Banner |
-|:---:|:---:|:---:|
-| ![Tips](free-fire-diamonds/screens/10-tips-tricks.jpg) | ![Exit](free-fire-diamonds/screens/11-exit.jpg) | ![Banner](free-fire-diamonds/screens/12-banner.jpg) |
+<div align="center">
 
-### Tools Used
-`Adobe XD` `Adobe Photoshop`
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+
+**[→ View All Screens](skintools/screens/)**
+
+</div>
 
 ---
 
-## 2. SkinTools
+<br>
 
-**Free Fire skin and bundle companion app** — a distinct visual identity from Free Fire Diamonds, using a bold coloured diagonal card system as the core design pattern. Includes complete app flow and Play Store assets.
+### 03 — Wikipedia Redesign
 
-### Design Highlights
-- Distinctive diagonal-cut card component system used consistently across all screens
-- Colour-coded categories (blue, yellow, green, pink, purple, red) for instant visual navigation
-- Cinematic splash screen with retro-wave aesthetic
-- Full app flow: Splash → Home → Category screens → Detail → Exit
+> **Dark-mode UX redesign concept** for Wikipedia. Reimagined reading experience with improved visual hierarchy, modern typography, and a cleaner information architecture. Built as a fully interactive Figma prototype.
 
-### Screens
+<div align="center">
 
-| Splash Screen | Home Screen | Rare Emotes |
-|:---:|:---:|:---:|
-| ![Splash](skintools/screens/01-splash.jpg) | ![Home](skintools/screens/02-home.jpg) | ![Emotes](skintools/screens/03-rare-emotes.jpg) |
+[![Figma Prototype](https://img.shields.io/badge/▶_View_Interactive_Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/WpjO83PX0pVkyzV029jOCf/Wikipedia-Redesign?node-id=0-1&t=vMdbEFIOkjPlhyLF-1)
 
-| Elite Pass | FF Skin Tool | Trending |
-|:---:|:---:|:---:|
-| ![Elite](skintools/screens/04-elite-pass.jpg) | ![Skin Tool](skintools/screens/05-skin-tool.jpg) | ![Trending](skintools/screens/06-trending.jpg) |
+</div>
 
-| Bundle Details | Exit Screen | Play Store Banner |
-|:---:|:---:|:---:|
-| ![Bundle](skintools/screens/07-bundle-details.jpg) | ![Exit](skintools/screens/08-exit.jpg) | ![Banner](skintools/screens/09-banner.jpg) |
+<br>
 
-### Tools Used
-`Adobe XD` `Adobe Photoshop`
+<div align="center">
 
----
+<img src="wikipedia-redesign/screens/01-home.png" width="49%" />
+&nbsp;
+<img src="wikipedia-redesign/screens/02-article.png" width="49%" />
 
-## 3. Wikipedia Redesign
+</div>
 
-**A dark-mode UX redesign concept for Wikipedia** — reimagining the Wikipedia reading experience with improved visual hierarchy, modern typography, and a cleaner information architecture. Built as a fully interactive Figma prototype.
+<br>
 
-### Design Highlights
-- Complete dark mode interface with improved contrast and readability
-- Redesigned navigation system — cleaner header, better search interaction
-- Article layout redesign with improved typographic hierarchy
-- Interactive prototype with working page flows: Home → Search → Article → Detail
+<div align="center">
 
-### Prototype
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-> **[→ View Interactive Figma Prototype](https://www.figma.com/design/WpjO83PX0pVkyzV029jOCf/Wikipedia-Redesign?node-id=0-1&t=vMdbEFIOkjPlhyLF-1)**
+**[→ View All Screens](wikipedia-redesign/screens/)**
 
-### Screens
-
-| Home | Search | Article View |
-|:---:|:---:|:---:|
-| ![Home](wikipedia-redesign/screens/01-home.png) | ![Search](wikipedia-redesign/screens/02-search.png) | ![Article](wikipedia-redesign/screens/03-article.png) |
-
-### Tools Used
-`Figma`
+</div>
 
 ---
 
-## Skills Demonstrated
+<br>
 
-- **UI Design** — visual hierarchy, colour systems, typography, component design
-- **Interaction Design** — user flows, navigation patterns, micro-interactions
-- **Prototyping** — interactive Figma prototypes with working flows
-- **Mobile Design** — Android UI conventions, touch targets, scroll patterns
-- **Marketing Assets** — Play Store banners, app icons, promotional graphics
-- **Tools** — Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
+<div align="center">
 
----
+## Skills
 
-## Contact
+`UI Design` `Interaction Design` `Prototyping` `Mobile Design` `Visual Design` `Marketing Assets`
 
-**Sahil Kakadiya**
-[sahilkakadiya010@gmail.com](mailto:sahilkakadiya010@gmail.com) · [LinkedIn](https://linkedin.com/in/sahil-kakadiya02) · [Portfolio](https://sahil-vr-portfolio.vercel.app)
+<br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
