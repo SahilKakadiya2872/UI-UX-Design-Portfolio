@@ -66,7 +66,7 @@ UI/UX design work from my time as a **UI/UX Designer at Hevin Technoweb LLP** (J
 <br>
 
 <div align="center">
-<img src="skintools/screens/Snap.jpg" width="100%" />
+<img src="skintools/screens/all-screens.jpg" width="100%" />
 </div>
 
 <br>
